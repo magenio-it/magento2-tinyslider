@@ -1,0 +1,23 @@
+{
+    "name": "magenio/magento2-tinyslider",
+    "description": "Magento2 Tiny Slider",
+    "version": "1.0.0",
+    "license": "MIT",
+    "require": {
+        "magento/magento-composer-installer": "*"
+    },
+    "authors": [
+        {
+            "name": "Antonio carboni",
+            "email": "a.carboni@magenio.com",
+            "homepage": "https://www.magenio.com"
+        }
+    ],
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+
+}
