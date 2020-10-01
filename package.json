@@ -7,6 +7,6 @@
     "postinstall": "cp node_modules/tiny-slider/dist/min/tiny-slider.js view/frontend/web/js/tiny-slider && cp node_modules/tiny-slider/dist/tiny-slider.css view/frontend/web/css"
   },
   "dependencies": {
-    "tiny-slider": "^2.9.3"
+    "tiny-slider": "^2.9.0"
   }
 }

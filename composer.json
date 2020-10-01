@@ -1,7 +1,7 @@
 {
     "name": "magenio/magento2-tinyslider",
     "description": "Magento2 Tiny Slider",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "require": {
         "magento/magento-composer-installer": "*"
